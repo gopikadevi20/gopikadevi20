@@ -1,89 +1,68 @@
-<h1 align="center">🌐 Gopika Devi Sundarapalli</h1>
+<h1 align="center">✨ Hi 👋, I'm Gopika Devi Sundarapalli ✨</h1>
 
 <p align="center">
-  <b>🚀 AI/ML Developer | Problem Solver | Tech Enthusiast</b>
+  <img src="https://komarev.com/ghpvc/?username=gopikadevi20&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<h3 align="center">🚀 AI/ML Developer | 🔐 Cybersecurity Enthusiast | 💡 Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Developer;Python+Programmer;Cybersecurity+Learner;Problem+Solver;Building+Real+World+Projects&center=true&width=650&height=50">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%2FML-Developer-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
-</p>
-
-<p align="center">
-  <a href="mailto:sundarapalligopikadevi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/gopika-devi-sundarapalli-767698280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/gopikadevi20">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
+  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-✨ Final-year **AI & ML student** passionate about building intelligent systems that solve real-world problems.  
+💡 I am a passionate **Artificial Intelligence & Machine Learning student** focused on building intelligent systems that solve real-world problems.
 
-💡 I focus on **practical AI solutions**, combining Machine Learning, Cybersecurity, and Web Development.
-
-<p>
-  <img src="https://img.shields.io/badge/CGPA-8.8-green"/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-orange"/>
-  <img src="https://img.shields.io/badge/Projects-4%2B-blue"/>
-  <img src="https://img.shields.io/badge/Internships-2-purple"/>
-</p>
+- 🎓 **B.Tech in AI & ML** — CGPA: **8.8 / 10**  
+- 🤖 Skilled in **Machine Learning, Python, and Cybersecurity tools**  
+- 🚀 Built projects in **AI, security, and automation**  
+- 📈 Solved **500+ coding problems**  
+- 🎯 Goal: Become a **high-impact AI/ML Engineer**
 
 ---
 
-## 🚀 What I Bring
+## 🚀 What I'm Doing
 
-✔️ Build AI/ML models for real-world use  
-✔️ Develop intelligent multi-model systems  
-✔️ Analyze and secure systems (Cybersecurity)  
-✔️ Create responsive and modern web apps  
+- 📚 Practicing **Data Structures & Algorithms**  
+- 🤖 Building **AI & multi-model systems**  
+- 🔐 Exploring **Cybersecurity tools & techniques**  
+- 🌱 Learning **real-world system design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C](https://img.shields.io/badge/C-grey)
-
-### 🌐 Web
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-
-### 🧠 AI & Tools
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
-![NLP](https://img.shields.io/badge/NLP-purple)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-red)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔥 OmniAI Cloud (Featured)
-Multi-modal AI system that automatically selects the best model based on input type.  
+### 🔥 OmniAI Cloud
+Multi-modal AI system that automatically selects models based on input type.  
 🔗 https://github.com/akshaykotipalli95/OMNI-AI-CLOUD  
 
 ---
 
 ### 🔐 Cyber Awareness Link Checker
-Detects phishing and malicious links using pattern analysis.  
+Detects phishing and malicious URLs.  
 🔗 https://github.com/gopikadevi20/Cyber-Awareness-Link-Checker  
 
 ---
 
 ### 🛡️ Advanced Password Cracker
-Simulates password attacks to analyze vulnerabilities.  
+Simulates attacks to analyze password strength.  
 🔗 https://github.com/gopikadevi20/Advanced-Password-Cracker  
 
 ---
@@ -98,7 +77,7 @@ Extracts metadata and detects suspicious activity.
 
 🧠 **AI/ML Intern — APSCHE | Aimers**  
 - Worked on YOLO-based object detection  
-- Improved model workflows  
+- Improved data processing workflows  
 
 🔐 **Cyber Security Intern — Supraja Technologies**  
 - Hands-on with Kali Linux, Metasploit, Wireshark  
@@ -108,30 +87,51 @@ Extracts metadata and detects suspicious activity.
 
 ## 🏆 Achievements
 
-🏅 NPTEL Certification – Python for Data Science  
-💯 Solved 500+ coding problems  
-🎖️ Participated in technical competitions  
+- 📜 NPTEL Certification – Python for Data Science  
+- 💯 Solved 500+ coding problems  
+- 🎖️ Participated in technical competitions  
 
 ---
 
-## 🎯 Career Objective
+## 📊 GitHub Stats
 
-🚀 Actively seeking roles as:
-
-**AI/ML Developer | Software Engineer**
-
-I aim to contribute to impactful projects while continuously improving my technical expertise.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopikadevi20&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopikadevi20&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📬 Contact
+## 📈 Contribution Graph
 
-📧 Email: sundarapalligopikadevi@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/gopika-devi-sundarapalli-767698280/  
-💻 GitHub: https://github.com/gopikadevi20  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopikadevi20&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sundarapalligopikadevi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gopika-devi-sundarapalli-767698280/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/gopikadevi20">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 ## 💡 Quote
 
 > ✨ "Building intelligent systems that create real-world impact."
+
+---
+
+<p align="center">
+  🚀 <b>Open to AI/ML & Software Development Opportunities</b>
+</p>
